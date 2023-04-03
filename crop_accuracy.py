@@ -1,4 +1,3 @@
-# import the necessary packages
 from config import dogs_vs_cats_config as config
 from pyimagesearch.preprocessing import ImageToArrayPreprocessor
 from pyimagesearch.preprocessing import SimplePreprocessor
